@@ -15,7 +15,7 @@
 
 
 
-## Komponen I/O yang Diuji (1-8)
+## Komponen I/O yang Diuji
 
 1.  **LED** (Output) - Pin 2
 2.  **BUZZER** (Output) - Pin 10
