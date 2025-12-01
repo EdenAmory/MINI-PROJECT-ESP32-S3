@@ -28,4 +28,4 @@
 
 ## Dokumentasi
 
-* **Kode Program:** 
+* **Kode Program:** https://github.com/EdenAmory/MINI-PROJECT-ESP32-S3/blob/main/ESP32-S3%20Mini%20Project/sketch.ino
