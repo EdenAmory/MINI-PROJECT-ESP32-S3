@@ -1,17 +1,18 @@
 # MINI-PROJECT-ESP32-S3
-**Nama:** Nathaniel Eden Amory  
-**NRP:** 3223600015  
+**Nama:** Nathaniel Eden Amory, Syauqi Nabil Falah  
+**NRP:** 3223600015, 3223600029  
 **Mata Kuliah:** RTOS  
-**Deskripsi:** Sistem Pembuka–Tutup Jendela Otomatis Berbasis ESP32 S3 dengan Kontrol Kecepatan Servo dan Tombol Manual
+**Deskripsi:** Sistem Pembuka–Tutup Jendela Otomatis Berbasis ESP32 S3 dengan Kontrol Kecepatan Servo dan Tombol Manual  
 
 
 
 
 **Posisi Menutup Jendela**
-<img width="465" height="491" alt="image" src="https://github.com/user-attachments/assets/91f2ed6c-4cf3-4fe6-99b9-1ccea8bc8434" />
-  
+<img width="907" height="980" alt="image" src="https://github.com/user-attachments/assets/c64565d5-7cd6-4751-b934-af758eb47398" />  
+
 **Posisi Membuka Jendela**  
-<img width="644" height="681" alt="image" src="https://github.com/user-attachments/assets/3d6f4866-f933-44c2-a7db-c273a32024aa" />
+<img width="916" height="981" alt="image" src="https://github.com/user-attachments/assets/f124fddb-68b7-4fa5-9f95-4023d94e3375" />
+
 
 
 ## Komponen I/O yang Diuji (1-8)
